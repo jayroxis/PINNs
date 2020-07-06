@@ -37,8 +37,8 @@ Here for easier to be understood and interact in real-time, we convert most orig
 
 Major Dependencies:
 
- - ***Tensorflow (for Tensorflow Implementation)***: pip install --upgrade tensorflow
- - ***PyTorch (for PyTorch Implementation)***: pip install --upgrade torch
+ - ***Tensorflow (for Tensorflow Implementation)***: ```pip install --upgrade tensorflow```
+ - ***PyTorch (for PyTorch Implementation)***: ```pip install --upgrade torch``
  - ***Jupyter Notebook/Lab***: ```pip install jupyterlab``` (JupyterLab) or ```pip install notebook```
 
 Peripheral Dependencies:
