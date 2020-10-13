@@ -5,8 +5,6 @@
 
 This is a simple implementation of the Physics-informed Neural Networks (PINNs) using ***PyTorch*** and ***Tensorflow***.
 
-Here for easier to be understood and interact in real-time, we convert most original codes into Jupyter Notebook (Python) format.
-
 -------------------------------------------
 
 ## Attribute
