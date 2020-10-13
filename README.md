@@ -45,6 +45,3 @@ Peripheral Dependencies:
  - ***seaborn***: ```pip install seaborn```
  - ***matplotlib***: ```pip install matplotlib```
  - ***pyDOE (for Tensorflow Implementation)***: ```pip install pyDOE```
-
-
-More updates is comming soon.
